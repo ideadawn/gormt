@@ -51,7 +51,6 @@ var TypeMysqlMatchMp = map[string]string{
 	`^(smallint)[(]\d+[)] unsigned`:  "uint16",
 	`^(mediumint)[(]\d+[)] unsigned`: "uint32",
 	`^(int)[(]\d+[)] unsigned`:       "uint32",
-	`^(int)[(]\d+[)] unsigned`:       "uint32",
 	`^(bigint)[(]\d+[)] unsigned`:    "uint64",
 	`^(tinyint)[(]\d+[)]`:            "int8",
 	`^(smallint)[(]\d+[)]`:           "int16",
