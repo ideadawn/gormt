@@ -6,13 +6,13 @@ import (
 	"strings"
 	"text/template"
 
-	"github.com/xxjwxc/gormt/data/view/cnf"
+	"github.com/ideadawn/gormt/data/view/cnf"
 
 	"github.com/xxjwxc/public/mybigcamel"
 
-	"github.com/xxjwxc/gormt/data/config"
-	"github.com/xxjwxc/gormt/data/view/genfunc"
-	"github.com/xxjwxc/gormt/data/view/genstruct"
+	"github.com/ideadawn/gormt/data/config"
+	"github.com/ideadawn/gormt/data/view/genfunc"
+	"github.com/ideadawn/gormt/data/view/genstruct"
 )
 
 type _Model struct {

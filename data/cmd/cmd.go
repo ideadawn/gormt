@@ -5,9 +5,9 @@ import (
 
 	"github.com/xxjwxc/public/mylog"
 
-	"github.com/xxjwxc/gormt/data/view/gtools"
+	"github.com/ideadawn/gormt/data/view/gtools"
 
-	"github.com/xxjwxc/gormt/data/config"
+	"github.com/ideadawn/gormt/data/config"
 
 	"github.com/spf13/cobra"
 	"gopkg.in/go-playground/validator.v9"

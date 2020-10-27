@@ -4,12 +4,12 @@ import (
 	"fmt"
 	"os/exec"
 
+	"github.com/ideadawn/gormt/data/view/model"
+	"github.com/ideadawn/gormt/data/view/model/genmysql"
+	"github.com/ideadawn/gormt/data/view/model/gensqlite"
 	"github.com/jroimartin/gocui"
-	"github.com/xxjwxc/gormt/data/view/model"
-	"github.com/xxjwxc/gormt/data/view/model/genmysql"
-	"github.com/xxjwxc/gormt/data/view/model/gensqlite"
 
-	"github.com/xxjwxc/gormt/data/config"
+	"github.com/ideadawn/gormt/data/config"
 
 	"github.com/xxjwxc/public/mylog"
 	"github.com/xxjwxc/public/tools"

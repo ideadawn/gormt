@@ -7,10 +7,10 @@ import (
 
 	"github.com/xxjwxc/public/mylog"
 
+	"github.com/ideadawn/gormt/data/config"
+	"github.com/ideadawn/gormt/data/view/model"
 	"github.com/jinzhu/gorm"
 	_ "github.com/mattn/go-sqlite3"
-	"github.com/xxjwxc/gormt/data/config"
-	"github.com/xxjwxc/gormt/data/view/model"
 	"github.com/xxjwxc/public/tools"
 )
 

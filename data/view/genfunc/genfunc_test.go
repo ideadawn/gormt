@@ -5,7 +5,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/xxjwxc/gormt/data/view/genfunc/model"
+	"github.com/ideadawn/gormt/data/view/genfunc/model"
 	"github.com/xxjwxc/public/mysqldb"
 	"gorm.io/gorm"
 
